@@ -18,6 +18,8 @@ docs/_build/
 __pycache__
 .env_file
 
+.env_file
+env
 # Coverage reports
 htmlcov/
 .coverage
